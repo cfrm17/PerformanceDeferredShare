@@ -18,14 +18,7 @@ Since we are modelling total shareholder return where the dividends are being re
 
 As stated earlier, it will be necessary to compare the organization’s TSR against the peer group. For all three years of interest, one way to compare the performance of each bank would be to evaluate 
 
-An alternate method of calculating this is based on a much more complicated “average” TSR over the whole period. The idea is to calculate the TSR for each share calendar
-quarter to quarter, and finally take an average return. 
+An alternate method of calculating this is based on a much more complicated “average” TSR over the whole period. The idea is to calculate the TSR for each share calendar quarter to quarter, and finally take an average return.
 
-References:
-
-https://finpricing.com/lib/EqRainbow.html
-
-https://zenodo.org/record/6547457/files/PorformaceDeferShare.pdf
-
-https://zenodo.org/record/6547457#.YpDvW6gpDq4
+A performance deferred share may have an option to cancel out (see https://finpricing.com/lib/EqCallable.html)
 
