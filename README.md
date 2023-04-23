@@ -20,5 +20,7 @@ As stated earlier, it will be necessary to compare the organization’s TSR agai
 
 An alternate method of calculating this is based on a much more complicated “average” TSR over the whole period. The idea is to calculate the TSR for each share calendar quarter to quarter, and finally take an average return.
 
-A performance deferred share may have an option to cancel out (see https://finpricing.com/lib/EqCallable.html)
 
+Reference:
+
+https://finpricing.com/curveVolList.html
